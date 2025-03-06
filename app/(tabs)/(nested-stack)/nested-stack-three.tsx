@@ -17,8 +17,8 @@ export default function NestedStackTwo() {
         }}
       >
         <Button
-          title="Go to Nested Stack Three"
-          onPress={() => router.push("/nested-stack-three")}
+          title="Go to Root Stack One"
+          onPress={() => router.push("/root-stack-one")}
         />
       </View>
     </View>
